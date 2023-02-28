@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-The movie app is a Flutter-based application that uses clean architecture and block as state management with the Dio package to handle API requests from the movie **database website**. The app displays information about now playing, top-rated, and popular movies, and each movie is clickable to show its details and some recommended movies.
+The movie app is a Flutter-based application that uses clean architecture and block as state management with the Dio package to handle API requests from **the movie database website**. The app displays information about now playing, top-rated, and popular movies, and each movie is clickable to show its details and some recommended movies.
 
 ## Prerequisites:
 
