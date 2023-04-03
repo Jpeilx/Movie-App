@@ -11,7 +11,7 @@ The movie app is a Flutter-based application that uses clean architecture and bl
 - Familiarity with the **dio** package for handling APIs .
 - Familiarity with the **BLoC** pattern for state management . 
 - Familiarity with **singleton** design pattern .
-- - Familiarity with **Dependency Injection** design pattern .
+- Familiarity with **Dependency Injection** design pattern .
 
 
 ## Installation
